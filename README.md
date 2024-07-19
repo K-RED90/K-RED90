@@ -6,15 +6,7 @@
 
 ### 🔬 Currently Shaping the Future of AI:
 
-#### @Zomujo (Healthcare AI)
-- 🏥 Developed AI-powered diagnostic system inferring diseases from patient summaries
-- 📊 Created application for structuring and organizing patient history data
-- 🤖 Engineered decision support chatbot for medical professionals
-
-#### @Agenly (Customer Service AI)
-- 👥 Built advanced AI system functioning as a virtual employee
-- 🔗 Integrated calendar management, Stripe payments, and company knowledge base
-- 💬 Implemented text and voice conversation capabilities using RAG and agentic AI
+Skilled in Machine Learning Engineering, I possess a strong knowledge of AI, machine learning, and data science. I have successfully led transformative projects in healthcare 🏥, customer support 👥, and agriculture 🌾 utilizing my expertise in generative AI and deep learning. My passion lies in pioneering ethical AI agents 🤖, and I am proficient in Python 🐍, LangChain, and TensorFlow. Actively contributing through Medium publications 📝, I am committed to unlocking AI's potential across industries.
 
 ### 🏆 Key Achievements:
 - 🥇 Led Team DataDynamos in developing Cropify AI:
@@ -45,6 +37,6 @@
 📫 Let's connect and collaborate:
 - [LinkedIn](https://www.linkedin.com/in/zakari-salifu-2bbaa5196/)
 - [Kaggle](https://www.kaggle.com/redpen12)
-- [Medium](Your Medium profile link)
+- [Medium](https://medium.com/@zsalifu22)
 
 💬 Open to exciting AI projects and opportunities!
